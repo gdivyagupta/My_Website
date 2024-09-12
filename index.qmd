@@ -1,0 +1,11 @@
+---
+title: "Welcome to my Website"
+---
+
+Hi
+
+Name: Divya Gupta
+
+Student at the University of Toronto
+
+Major: Cognitive Science, Psychology, Statistics
